@@ -1,5 +1,5 @@
 let btnRandom = document.querySelector('button');
-let result = document.querySelector('h1');
+let result = document.querySelector('h2');
  
  
 let users = ['Aabha',
