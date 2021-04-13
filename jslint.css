@@ -31,13 +31,13 @@ body {
 }
 
 #JSLINT_TITLEBOX div {
-    color: darkslategray;
+    color:#0000FF;
     float: left;
     font-size: 48pt;
 }
 
 #JSLINT_ fieldset {
-    background-color: gainsboro;
+    background-color: white;
     border: 0;
     clear: both;
     margin-bottom: 1em;
@@ -48,7 +48,7 @@ body {
     width: auto;
 }
 #JSLINT_  legend {
-    background-color: darkslategray;
+    background-color: #0000FF;
     border: 0;
     color: white;
     font-size: 100%;
@@ -63,7 +63,7 @@ body {
     width: 100%;
 }
 #JSLINT_ button {
-    background-color: darkslategray;
+    background-color: #0000FF;
     border: 0;
     color: white;
     cursor: pointer;
@@ -79,7 +79,7 @@ body {
     text-align: center;
 }
 #JSLINT_ button:hover {
-    background-color: slategray;
+    background-color: #0000FF;
     color: white;
     border: 0;
 }
@@ -90,9 +90,9 @@ body {
 }
 
 #JSLINT_ button:disabled {
-    background-color: gray;
+    background-color: white;
     border: 0;
-    color: gainsboro;
+    color: white;
 }
 
 a:visited {
